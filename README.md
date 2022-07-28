@@ -1,2 +1,2 @@
-# exercices-js
-JS Exercices :)
+# exercises-js
+JS Exercises :)
